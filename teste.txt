@@ -2,3 +2,4 @@ Teste 1
 Teste linha 2
 Teste para o novo branch staging 1
 Teste linha 4
+Teste Linha Nova
